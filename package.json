@@ -27,8 +27,7 @@
     "wrap-ansi": "^2.0.0"
   },
   "devDependencies": {
-    "coveralls": "^3.0.2",
-    "mocha": "^5.2.0",
-    "nyc": "^13.1.0"
+    "mocha": "^11.1.0",
+    "nyc": "^17.1.0"
   }
 }
